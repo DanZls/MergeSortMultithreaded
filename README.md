@@ -1,2 +1,2 @@
-# cpp_multi_thread_merge_sort
+# MergeSortMultithreaded
 Implements an amateur C++ realisation of a multi-threaded merge sort algorithm for integer numbers. For usage, include the file "cpp_multi_thread_merge_sort.h" and call the function ThreadedMergeSort declared as std::vector<int> ThreadedMergeSort(const std::vector<int>& v, int threads = 16), where "v" is a vector of integer values, "threads" is a number of threads you want to use.
